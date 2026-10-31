@@ -13,4 +13,5 @@ An interactive Power BI dashboard designed to track, analyze, and visualize key 
 * **DAX (Data Analysis Expressions)** - Custom metrics and data formatting
 
 ## 📸 Dashboard Preview
-*(Upload panna screenshot image-a inge add pannalam)*
+<img width="1053" height="591" alt="image" src="https://github.com/user-attachments/assets/4142e493-2437-4bf3-9bbc-a9af324740fe" />
+
